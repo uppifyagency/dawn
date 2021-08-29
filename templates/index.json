@@ -125,8 +125,8 @@
         "163023887481c27d74-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Accedi al gruppo!",
+            "button_link": "#"
           }
         }
       },
