@@ -42,6 +42,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "8f30aacb-1e74-40f6-852e-2828aa088997": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Menu",
+              "menu": "main-menu"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -55,14 +62,23 @@
               "heading": "Heading",
               "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
             }
+          },
+          "e5ecd93e-8982-4e0a-ab26-49b15d2bfd3b": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
+          "8f30aacb-1e74-40f6-852e-2828aa088997",
           "footer-0",
-          "footer-1"
+          "footer-1",
+          "e5ecd93e-8982-4e0a-ab26-49b15d2bfd3b"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
