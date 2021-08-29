@@ -160,8 +160,8 @@
         "1630238975a3469f42-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Ascolta l'ultimo episodio!",
+            "button_link": "#"
           }
         }
       },
