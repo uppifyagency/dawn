@@ -141,12 +141,48 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "1630238975a3469f42": {
+      "type": "image-with-text",
+      "blocks": {
+        "1630238975a3469f42-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uppcast!"
+          }
+        },
+        "1630238975a3469f42-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il podcast dalla A al Business, creato da imprenditori per imprenditori.<br\/>Interviste e storie vere di imprenditori comuni.<\/p>"
+          }
+        },
+        "1630238975a3469f42-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1630238975a3469f42-0",
+        "1630238975a3469f42-1",
+        "1630238975a3469f42-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/woman-adjusting-headphones-at-mic.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
     "1630238521e8733446",
     "16302387074b438cd6",
     "16302388166e13c189",
-    "163023887481c27d74"
+    "163023887481c27d74",
+    "1630238975a3469f42"
   ]
 }
