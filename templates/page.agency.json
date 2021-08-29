@@ -155,6 +155,41 @@
         "color_scheme": "background-2",
         "full_width": false
       }
+    },
+    "1630240809361169bc": {
+      "type": "image-with-text",
+      "blocks": {
+        "1630240809361169bc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1630240809361169bc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1630240809361169bc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1630240809361169bc-0",
+        "1630240809361169bc-1",
+        "1630240809361169bc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/black-and-white-stadium.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -162,6 +197,7 @@
     "1630240596e62b04e0",
     "1630240608953515c1",
     "1630240685118c7909",
-    "1630240720ca6d97fa"
+    "1630240720ca6d97fa",
+    "1630240809361169bc"
   ]
 }
