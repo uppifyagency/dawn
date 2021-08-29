@@ -5,9 +5,46 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "1630240596e62b04e0": {
+      "type": "rich-text",
+      "blocks": {
+        "1630240596e62b04e0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uppify Agency",
+            "heading_size": "h1"
+          }
+        },
+        "1630240596e62b04e0-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1630240596e62b04e0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Il tuo business Partner 🚀",
+            "button_link": "#",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "1630240596e62b04e0-0",
+        "1630240596e62b04e0-1",
+        "1630240596e62b04e0-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1630240596e62b04e0"
   ]
 }
