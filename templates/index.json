@@ -268,6 +268,42 @@
         "soft_background": false,
         "show_view_all": false
       }
+    },
+    "1630239560374f2b7d": {
+      "type": "collection-list",
+      "blocks": {
+        "1630239560374f2b7d-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "1630239560374f2b7d-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "1630239560374f2b7d-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1630239560374f2b7d-0",
+        "1630239560374f2b7d-1",
+        "1630239560374f2b7d-2"
+      ],
+      "settings": {
+        "title": "Le nostre migliori risorse",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -279,6 +315,7 @@
     "1630239312c7b15858",
     "16302393826adaf8b1",
     "1630239445f9da5c1f",
-    "1630239506dcb1215d"
+    "1630239506dcb1215d",
+    "1630239560374f2b7d"
   ]
 }
