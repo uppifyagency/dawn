@@ -106,40 +106,6 @@
         "layout": "text_first"
       }
     },
-    "16302397029fcab284": {
-      "type": "image-with-text",
-      "blocks": {
-        "16302397029fcab284-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ebook 3"
-          }
-        },
-        "16302397029fcab284-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16302397029fcab284-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scarica!",
-            "button_link": "#"
-          }
-        }
-      },
-      "block_order": [
-        "16302397029fcab284-0",
-        "16302397029fcab284-1",
-        "16302397029fcab284-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "1630239714e4410a7c": {
       "type": "featured-collection",
       "settings": {
@@ -162,7 +128,6 @@
     "16302396447005b25d",
     "163023966252fdb884",
     "1630239698de555124",
-    "16302397029fcab284",
     "1630239714e4410a7c"
   ]
 }
