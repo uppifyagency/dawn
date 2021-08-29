@@ -233,41 +233,6 @@
         "swipe_on_mobile": true
       }
     },
-    "16302409647d3e96ee": {
-      "type": "image-with-text",
-      "blocks": {
-        "16302409647d3e96ee-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with textFase 2# Lead Generation !"
-          }
-        },
-        "16302409647d3e96ee-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16302409647d3e96ee-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16302409647d3e96ee-0",
-        "16302409647d3e96ee-1",
-        "16302409647d3e96ee-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "16302410233a84b493": {
       "type": "image-with-text",
       "blocks": {
@@ -280,7 +245,7 @@
         "16302410233a84b493-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Uno dei punti cardine dei piani di marketing è la generazione lead.<br\/><br\/>▷E’ un processo che richiede sforzo e ricerca di interazione continua con gli utenti<br\/><br\/>▷Utilizziamo il <strong>Metodo<\/strong><em><strong> R.A.C.E<\/strong><\/em><\/p>"
           }
         },
         "16302410233a84b493-2": {
@@ -299,7 +264,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/woman-leading-meeting.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "text_first"
       }
     }
@@ -312,7 +277,6 @@
     "1630240720ca6d97fa",
     "1630240809361169bc",
     "1630241015ceba87e6",
-    "16302409647d3e96ee",
     "16302410233a84b493"
   ]
 }
