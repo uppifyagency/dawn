@@ -1,7 +1,77 @@
 {
   "sections": {
+    "16302415775d604638": {
+      "type": "newsletter",
+      "blocks": {
+        "16302415775d604638-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Non perderti la nostra Newsletter!"
+          }
+        },
+        "16302415775d604638-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Contenuti, Risorse e Guide. Direttamente nella tua casella di posta ogni <strong>Lunedì.<\/strong><\/p>"
+          }
+        },
+        "16302415775d604638-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16302415775d604638-0",
+        "16302415775d604638-1",
+        "16302415775d604638-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16302415858b56616d": {
+      "type": "rich-text",
+      "blocks": {
+        "16302415858b56616d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "👋🏼 Ciao, sei pronto a collaborare con noi?",
+            "heading_size": "h1"
+          }
+        },
+        "16302415858b56616d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Analizzeremo con massima attenzione la tua richiesta<\/p>"
+          }
+        },
+        "16302415858b56616d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16302415858b56616d-0",
+        "16302415858b56616d-1",
+        "16302415858b56616d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     },
     "form": {
       "type": "contact-form",
@@ -11,7 +81,9 @@
     }
   },
   "order": [
+    "16302415775d604638",
     "main",
+    "16302415858b56616d",
     "form"
   ]
 }
