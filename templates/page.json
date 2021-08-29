@@ -123,8 +123,8 @@
         "16302397029fcab284-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Scarica!",
+            "button_link": "#"
           }
         }
       },
