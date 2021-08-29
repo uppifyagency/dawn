@@ -327,6 +327,7 @@
         },
         "16302412456433a3cc-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -341,7 +342,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/black-friday-online-store.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     }
