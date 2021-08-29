@@ -176,6 +176,37 @@
         "color_scheme": "background-1",
         "layout": "text_first"
       }
+    },
+    "1630239312c7b15858": {
+      "type": "newsletter",
+      "blocks": {
+        "1630239312c7b15858-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Non perderti la nostra Newsletter!"
+          }
+        },
+        "1630239312c7b15858-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Contenuti, Risorse e Guide. Direttamente nella tua casella di posta ogni <strong>Lunedì.<\/strong><\/p>"
+          }
+        },
+        "1630239312c7b15858-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1630239312c7b15858-0",
+        "1630239312c7b15858-1",
+        "1630239312c7b15858-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -183,6 +214,7 @@
     "16302387074b438cd6",
     "16302388166e13c189",
     "163023887481c27d74",
-    "1630238975a3469f42"
+    "1630238975a3469f42",
+    "1630239312c7b15858"
   ]
 }
