@@ -251,7 +251,7 @@
         "post_limit": 3,
         "show_image": true,
         "show_date": true,
-        "show_author": false,
+        "show_author": true,
         "soft_background": false,
         "show_view_all": false
       }
@@ -301,7 +301,7 @@
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": false,
-        "image_padding": false,
+        "image_padding": true,
         "show_view_all": false
       }
     }
