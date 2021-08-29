@@ -34,9 +34,47 @@
         "color_scheme": "accent-1",
         "layout": "text_first"
       }
+    },
+    "16302387074b438cd6": {
+      "type": "rich-text",
+      "blocks": {
+        "16302387074b438cd6-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "16302387074b438cd6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Vogliamo creare un ecosistema dove il Digital sia <strong>democratico<\/strong>, <strong>accessibile<\/strong> e una <strong>fonte di valore<\/strong>. <br\/>Lo facciamo <strong>mettendo al centro le persone<\/strong> tramite i nostri <strong>canali digitali<\/strong>.\"<\/p>"
+          }
+        },
+        "16302387074b438cd6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16302387074b438cd6-0",
+        "16302387074b438cd6-1",
+        "16302387074b438cd6-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false
+      }
     }
   },
   "order": [
-    "1630238521e8733446"
+    "1630238521e8733446",
+    "16302387074b438cd6"
   ]
 }
