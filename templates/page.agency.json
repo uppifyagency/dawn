@@ -119,12 +119,49 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1630240720ca6d97fa": {
+      "type": "rich-text",
+      "blocks": {
+        "1630240720ca6d97fa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Come lo facciamo?",
+            "heading_size": "h1"
+          }
+        },
+        "1630240720ca6d97fa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ci affidiamo ad un processo suddiviso in 3 fasi, altamente efficiente e collaudato.<\/p>"
+          }
+        },
+        "1630240720ca6d97fa-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1630240720ca6d97fa-0",
+        "1630240720ca6d97fa-1",
+        "1630240720ca6d97fa-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
     "1630240596e62b04e0",
     "1630240608953515c1",
-    "1630240685118c7909"
+    "1630240685118c7909",
+    "1630240720ca6d97fa"
   ]
 }
