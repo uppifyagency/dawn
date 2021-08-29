@@ -41,10 +41,48 @@
         "color_scheme": "accent-2",
         "full_width": true
       }
+    },
+    "1630240608953515c1": {
+      "type": "rich-text",
+      "blocks": {
+        "1630240608953515c1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Come possiamo aiutarti?",
+            "heading_size": "h1"
+          }
+        },
+        "1630240608953515c1-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1630240608953515c1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1630240608953515c1-0",
+        "1630240608953515c1-1",
+        "1630240608953515c1-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
-    "1630240596e62b04e0"
+    "1630240596e62b04e0",
+    "1630240608953515c1"
   ]
 }
