@@ -199,21 +199,21 @@
           "type": "column",
           "settings": {
             "title": "Identificazione del Pubblico",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>In questa fase ci concentreremo sulle abitudini e caratteristiche del tuo pubblico ideale ovvero la <strong>buyer persona.<\/strong><\/p>"
           }
         },
         "1630241015ceba87e6-1": {
           "type": "column",
           "settings": {
             "title": "Nurturing",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Insieme al SMM, <strong>identificheremo contenuti studiati ad hoc<\/strong>, che rispondano prontamente ai bisogni dell'audience.<\/p>"
           }
         },
         "1630241015ceba87e6-2": {
           "type": "column",
           "settings": {
             "title": "Attivazione",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Lo scopo è mantenere l'attenzione viva, proponendo all'audience, nel tempo, diverse richieste d'azione.<\/p>"
           }
         }
       },
@@ -228,7 +228,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
       }
@@ -239,7 +239,7 @@
         "16302409647d3e96ee-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Image with textFase 2# Lead Generation !"
           }
         },
         "16302409647d3e96ee-1": {
@@ -250,6 +250,7 @@
         },
         "16302409647d3e96ee-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -266,6 +267,41 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "16302410233a84b493": {
+      "type": "image-with-text",
+      "blocks": {
+        "16302410233a84b493-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fase 2# Lead Generation !"
+          }
+        },
+        "16302410233a84b493-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16302410233a84b493-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16302410233a84b493-0",
+        "16302410233a84b493-1",
+        "16302410233a84b493-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/woman-leading-meeting.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -276,6 +312,7 @@
     "1630240720ca6d97fa",
     "1630240809361169bc",
     "1630241015ceba87e6",
-    "16302409647d3e96ee"
+    "16302409647d3e96ee",
+    "16302410233a84b493"
   ]
 }
