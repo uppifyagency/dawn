@@ -309,6 +309,41 @@
         "button_link": "",
         "swipe_on_mobile": true
       }
+    },
+    "16302412456433a3cc": {
+      "type": "image-with-text",
+      "blocks": {
+        "16302412456433a3cc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fase 3# E-commerce !"
+          }
+        },
+        "16302412456433a3cc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lanciare un e-commerce non è una scienza esatta, ma esistono dei passi da fare che permettono di ridurre molto la possibilità di fallire.<br\/><br\/>▷Nella fase iniziale, bisogna creare e rendere efficiente il modello di business<strong>.<\/strong><\/p>"
+          }
+        },
+        "16302412456433a3cc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16302412456433a3cc-0",
+        "16302412456433a3cc-1",
+        "16302412456433a3cc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/black-friday-online-store.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -320,6 +355,7 @@
     "1630240809361169bc",
     "1630241015ceba87e6",
     "16302410233a84b493",
-    "16302411646520b949"
+    "16302411646520b949",
+    "16302412456433a3cc"
   ]
 }
