@@ -289,8 +289,8 @@
         "16302411646520b949-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Segmentazione",
+            "text": "<p>Fase fondamentale della Lead generation, in cui andremo ad affibbiare un determinato\/i TAG, in base al comportamento passato dell'utente.<\/p>"
           }
         }
       },
