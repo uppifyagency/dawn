@@ -1,43 +1,42 @@
 {
   "sections": {
-    "16302385166b1fa38b": {
-      "type": "rich-text",
-      "disabled": true,
+    "1630238521e8733446": {
+      "type": "image-with-text",
       "blocks": {
-        "16302385166b1fa38b-0": {
+        "1630238521e8733446-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "Ecommerce, Digital Marketing e Social media"
           }
         },
-        "16302385166b1fa38b-1": {
+        "1630238521e8733446-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p><em>\"Progettiamo esperienze digitali che aiutino gli imprenditori e le loro aziende  a crescere\"<\/em><\/p>"
           }
         },
-        "16302385166b1fa38b-2": {
+        "1630238521e8733446-2": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "button_link": "#"
           }
         }
       },
       "block_order": [
-        "16302385166b1fa38b-0",
-        "16302385166b1fa38b-1",
-        "16302385166b1fa38b-2"
+        "1630238521e8733446-0",
+        "1630238521e8733446-1",
+        "1630238521e8733446-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
+        "image": "shopify:\/\/shop_images\/1_0aadef30-33cc-4dc3-abbd-964d9cf852d8.png",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "text_first"
       }
     }
   },
   "order": [
-    "16302385166b1fa38b"
+    "1630238521e8733446"
   ]
 }
