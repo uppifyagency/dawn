@@ -43,7 +43,7 @@
         "163023966252fdb884-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Ebook 1"
           }
         },
         "163023966252fdb884-1": {
@@ -77,7 +77,7 @@
         "1630239698de555124-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Ebook 2"
           }
         },
         "1630239698de555124-1": {
@@ -142,7 +142,7 @@
     "1630239714e4410a7c": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Le nostre guide",
         "collection": "",
         "products_to_show": 4,
         "show_view_all": true,
