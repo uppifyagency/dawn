@@ -55,8 +55,8 @@
         "163023966252fdb884-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Scarica!",
+            "button_link": "#"
           }
         }
       },
@@ -89,8 +89,8 @@
         "1630239698de555124-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Scarica!",
+            "button_link": "#"
           }
         }
       },
@@ -111,7 +111,7 @@
         "16302397029fcab284-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Ebook 3"
           }
         },
         "16302397029fcab284-1": {
