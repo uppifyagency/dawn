@@ -298,8 +298,8 @@
       "settings": {
         "title": "Le nostre migliori risorse",
         "image_ratio": "square",
-        "color_scheme": "accent-2",
-        "swipe_on_mobile": false,
+        "color_scheme": "accent-1",
+        "swipe_on_mobile": true,
         "image_padding": true,
         "show_view_all": false
       }
