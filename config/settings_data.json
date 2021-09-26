@@ -9,6 +9,7 @@
     "colors_background_2": "#faede1",
     "type_header_font": "americana_n7",
     "type_body_font": "quattrocento_sans_n4",
+    "favicon": "shopify:\/\/shop_images\/Upp.verdino_scuro.png",
     "currency_code_enabled": true,
     "sections": {
       "announcement-bar": {
