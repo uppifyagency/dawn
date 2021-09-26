@@ -79,8 +79,8 @@
           "e5ecd93e-8982-4e0a-ab26-49b15d2bfd3b"
         ],
         "settings": {
-          "color_scheme": "accent-1",
-          "newsletter_enable": true,
+          "color_scheme": "inverse",
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
           "enable_country_selector": true,
