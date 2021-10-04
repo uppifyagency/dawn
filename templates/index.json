@@ -304,6 +304,49 @@
         "image_padding": true,
         "show_view_all": false
       }
+    },
+    "16333330898fb7b5c7": {
+      "type": "image-banner",
+      "blocks": {
+        "16333330898fb7b5c7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uppify for Business",
+            "heading_size": "medium"
+          }
+        },
+        "16333330898fb7b5c7-1": {
+          "type": "text",
+          "settings": {
+            "text": "Aiutiamo brand e personal brand nello sviluppo del proprio business."
+          }
+        },
+        "16333330898fb7b5c7-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Richiedi un preventivo per il tuo progetto!",
+            "button_link_1": "https:\/\/forms.gle\/RUFkMrF9b6cw4Yg69",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16333330898fb7b5c7-0",
+        "16333330898fb7b5c7-1",
+        "16333330898fb7b5c7-2"
+      ],
+      "settings": {
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": false,
+        "image_overlay_opacity": 30,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -316,6 +359,7 @@
     "16302393826adaf8b1",
     "1630239445f9da5c1f",
     "1630239506dcb1215d",
-    "1630239560374f2b7d"
+    "1630239560374f2b7d",
+    "16333330898fb7b5c7"
   ]
 }
