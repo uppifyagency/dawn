@@ -343,7 +343,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/young-man-working-on-patio-couch.jpg",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
+        "desktop_text_box_position": "center",
         "show_text_box": false,
         "image_overlay_opacity": 40,
         "color_scheme": "accent-2",
