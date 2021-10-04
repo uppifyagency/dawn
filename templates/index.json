@@ -244,6 +244,7 @@
     },
     "1630239445f9da5c1f": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "",
         "blog": "notizie",
@@ -257,6 +258,7 @@
     },
     "1630239506dcb1215d": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "",
         "blog": "notizie",
@@ -339,11 +341,12 @@
         "16333330898fb7b5c7-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/young-man-working-on-patio-couch.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": false,
-        "image_overlay_opacity": 30,
-        "color_scheme": "background-1",
+        "image_overlay_opacity": 40,
+        "color_scheme": "accent-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
