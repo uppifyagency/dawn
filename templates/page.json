@@ -236,6 +236,41 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1633960276aa9f2a1b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1633960276aa9f2a1b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1633960276aa9f2a1b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1633960276aa9f2a1b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1633960276aa9f2a1b-0",
+        "1633960276aa9f2a1b-1",
+        "1633960276aa9f2a1b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mockuper_3.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -245,6 +280,7 @@
     "16339502055765f429",
     "1633950217db34916f",
     "16339519301b2a619d",
-    "1633959150e2105b98"
+    "1633959150e2105b98",
+    "1633960276aa9f2a1b"
   ]
 }
