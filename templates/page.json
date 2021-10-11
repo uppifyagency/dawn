@@ -8,7 +8,6 @@
     },
     "16302396447005b25d": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "16302396447005b25d-0": {
           "type": "heading",
@@ -38,60 +37,13 @@
         "full_width": true
       }
     },
-    "1633949047f220aabd": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1633949047f220aabd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "1633949047f220aabd-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1633949047f220aabd-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1633949047f220aabd-0",
-        "1633949047f220aabd-1",
-        "1633949047f220aabd-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Schermata_2021-10-11_alle_12.52.32.png",
-        "image_2": "shopify:\/\/shop_images\/Schermata_2021-10-11_alle_12.53.55.png",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": false,
-        "image_overlay_opacity": 40,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "16339502055765f429": {
       "type": "image-with-text",
       "blocks": {
         "16339502055765f429-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Rmx Haircare"
           }
         },
         "16339502055765f429-1": {
@@ -317,7 +269,6 @@
   "order": [
     "main",
     "16302396447005b25d",
-    "1633949047f220aabd",
     "16339502055765f429",
     "1633950217db34916f",
     "16339519301b2a619d",
