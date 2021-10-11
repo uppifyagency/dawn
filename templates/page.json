@@ -86,14 +86,14 @@
           "type": "column",
           "settings": {
             "title": "Email Marketing",
-            "text": "<p>Implementato una strategia di automazione email per il recupero dei clienti. <\/p>"
+            "text": "<p>Abbiamo implementato una strategia di automazione email per il recupero dei clienti. <\/p>"
           }
         },
         "1633950217db34916f-2": {
           "type": "column",
           "settings": {
             "title": "Social media",
-            "text": ""
+            "text": "<p>Stiamo implementando una rivisitazione totale dell'immagine del brand, volta ad umanizzare il brand.<\/p>"
           }
         }
       },
