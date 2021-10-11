@@ -195,7 +195,7 @@
         "1633960276aa9f2a1b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Avvera Finanziamenti"
           }
         },
         "1633960276aa9f2a1b-1": {
@@ -230,21 +230,21 @@
         "163396071630e75069-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Sito Web",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "163396071630e75069-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Facebook ADS",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "163396071630e75069-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Lead Generation",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         }
@@ -255,7 +255,7 @@
         "163396071630e75069-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Percorso",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
