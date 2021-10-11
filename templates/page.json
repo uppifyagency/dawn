@@ -118,7 +118,7 @@
         "image": "shopify:\/\/shop_images\/provamock2.png",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     }
   },
