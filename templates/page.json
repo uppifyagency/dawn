@@ -6,37 +6,6 @@
       "settings": {
       }
     },
-    "16302396447005b25d": {
-      "type": "newsletter",
-      "blocks": {
-        "16302396447005b25d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Non perderti la nostra Newsletter!"
-          }
-        },
-        "16302396447005b25d-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Contenuti, Risorse e Guide. Direttamente nella tua casella di posta ogni <strong>Lunedì.<\/strong><\/p>"
-          }
-        },
-        "16302396447005b25d-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16302396447005b25d-0",
-        "16302396447005b25d-1",
-        "16302396447005b25d-2"
-      ],
-      "settings": {
-        "color_scheme": "background-2",
-        "full_width": true
-      }
-    },
     "16339502055765f429": {
       "type": "image-with-text",
       "blocks": {
@@ -264,16 +233,47 @@
         "button_link": "",
         "swipe_on_mobile": true
       }
+    },
+    "16302396447005b25d": {
+      "type": "newsletter",
+      "blocks": {
+        "16302396447005b25d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Non perderti la nostra Newsletter!"
+          }
+        },
+        "16302396447005b25d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Contenuti, Risorse e Guide. Direttamente nella tua casella di posta ogni <strong>Lunedì.<\/strong><\/p>"
+          }
+        },
+        "16302396447005b25d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16302396447005b25d-0",
+        "16302396447005b25d-1",
+        "16302396447005b25d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
-    "16302396447005b25d",
     "16339502055765f429",
     "1633950217db34916f",
     "16339519301b2a619d",
     "1633959150e2105b98",
     "1633960276aa9f2a1b",
-    "163396071630e75069"
+    "163396071630e75069",
+    "16302396447005b25d"
   ]
 }
