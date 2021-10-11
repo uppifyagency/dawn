@@ -155,21 +155,21 @@
           "type": "column",
           "settings": {
             "title": "Audience",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>▷ Identificazione e generazione di una audience di base a supporto del progetto.<\/p>"
           }
         },
         "1633959150e2105b98-1": {
           "type": "column",
           "settings": {
             "title": "Brand",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>▷ Definizione del posizionamento, tono di voce ed asset grafici per dare una forma tangibile al brand.<\/p>"
           }
         },
         "1633959150e2105b98-2": {
           "type": "column",
           "settings": {
             "title": "Ecommerce",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>▷ Implementazione di un ecommerce studiato su misura, basato su piattaforma Shopify.<\/p>"
           }
         }
       },
