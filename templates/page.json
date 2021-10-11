@@ -78,21 +78,21 @@
         "1633950217db34916f-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "E-commerce",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "1633950217db34916f-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Email Marketing",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "1633950217db34916f-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Social media",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         }
