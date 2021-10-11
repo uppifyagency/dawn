@@ -154,21 +154,21 @@
         "1633959150e2105b98-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Audience",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "1633959150e2105b98-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Brand",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "1633959150e2105b98-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Ecommerce",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         }
@@ -179,7 +179,7 @@
         "1633959150e2105b98-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Percorso",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
