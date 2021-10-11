@@ -190,6 +190,7 @@
         "16339519301b2a619d-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mockuper_1.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
