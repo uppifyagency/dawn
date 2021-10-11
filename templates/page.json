@@ -119,20 +119,20 @@
         "16339519301b2a619d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "AcetoB"
           }
         },
         "16339519301b2a619d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Passione e tradizione per la produzione di aceto balsamico da 3 generazioni. <\/p>"
           }
         },
         "16339519301b2a619d-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Visita!",
+            "button_link": "https:\/\/acetob.com\/"
           }
         }
       },
