@@ -207,8 +207,8 @@
         "1633960276aa9f2a1b-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Visita il sito!",
+            "button_link": "https:\/\/www.raffaellabroccoli.it\/"
           }
         }
       },
