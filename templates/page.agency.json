@@ -428,6 +428,50 @@
       "settings": {
         "heading": ""
       }
+    },
+    "1633964282d65e4d1b": {
+      "type": "image-banner",
+      "blocks": {
+        "1633964282d65e4d1b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1633964282d65e4d1b-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1633964282d65e4d1b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1633964282d65e4d1b-0",
+        "1633964282d65e4d1b-1",
+        "1633964282d65e4d1b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/young-man-working-on-patio-couch.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 30,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -443,6 +487,7 @@
     "16302412456433a3cc",
     "1630241434ba7d7593",
     "16323017454e56d32a",
-    "1632301753088fbb7b"
+    "1632301753088fbb7b",
+    "1633964282d65e4d1b"
   ]
 }
