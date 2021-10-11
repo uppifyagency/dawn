@@ -53,22 +53,31 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Link Rapidi",
               "menu": "footer"
             }
           },
           "footer-1": {
             "type": "text",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+              "heading": "",
+              "subtext": "<p>‟ Quando vuoi innovare, devi essere preparato a tutti coloro che ti diranno che sei pazzo. (Larry Ellison) ‟<\/p>"
             }
           },
           "e5ecd93e-8982-4e0a-ab26-49b15d2bfd3b": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
+            }
+          },
+          "1d817d6d-d459-4986-b205-9f8bf956485a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Upp.verdino_scuro.png",
+              "image_width": 100,
+              "alignment": "center"
             }
           }
         },
@@ -76,7 +85,8 @@
           "8f30aacb-1e74-40f6-852e-2828aa088997",
           "footer-0",
           "footer-1",
-          "e5ecd93e-8982-4e0a-ab26-49b15d2bfd3b"
+          "e5ecd93e-8982-4e0a-ab26-49b15d2bfd3b",
+          "1d817d6d-d459-4986-b205-9f8bf956485a"
         ],
         "settings": {
           "color_scheme": "inverse",
