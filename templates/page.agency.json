@@ -431,6 +431,43 @@
         "heading": ""
       }
     },
+    "1634997346c22c7518": {
+      "type": "rich-text",
+      "blocks": {
+        "1634997346c22c7518-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "🧐 Hai bisogno di una consulenza su misura?",
+            "heading_size": "h1"
+          }
+        },
+        "1634997346c22c7518-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": ""
+          }
+        },
+        "1634997346c22c7518-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1634997346c22c7518-0",
+        "1634997346c22c7518-1",
+        "1634997346c22c7518-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
     "16349972032ae75a50": {
       "type": "custom-liquid",
       "settings": {
@@ -443,7 +480,7 @@
         "1633964282d65e4d1b-0": {
           "type": "heading",
           "settings": {
-            "heading": "👋🏼 Sei pronto a collaborare con noi?",
+            "heading": "👋🏼 Sei già pronto a collaborare con noi?",
             "heading_size": "large"
           }
         },
@@ -496,6 +533,7 @@
     "1630241434ba7d7593",
     "16323017454e56d32a",
     "1632301753088fbb7b",
+    "1634997346c22c7518",
     "16349972032ae75a50",
     "1633964282d65e4d1b"
   ]
