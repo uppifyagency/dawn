@@ -18,9 +18,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "",
-              "color_scheme": "background-1",
-              "link": ""
+              "text": "Hai bisogno di una consulenza?",
+              "color_scheme": "background-2",
+              "link": "https:\/\/calendly.com\/uppifyagency\/30min"
             }
           }
         },
