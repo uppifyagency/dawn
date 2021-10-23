@@ -471,7 +471,7 @@
     "16349972032ae75a50": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/uppifyagency?primary_color=2a4c45\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/uppifyagency?primary_color=2a4c45\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
       }
     },
     "1633964282d65e4d1b": {
