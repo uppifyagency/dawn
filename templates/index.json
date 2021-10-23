@@ -354,7 +354,7 @@
     "16349966687f2d5270": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<!-- Calendly badge widget begin -->\n<link href=\"https:\/\/assets.calendly.com\/assets\/external\/widget.css\" rel=\"stylesheet\">\n<script src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" type=\"text\/javascript\" async><\/script>\n<script type=\"text\/javascript\">window.onload = function() { Calendly.initBadgeWidget({ url: 'https:\/\/calendly.com\/uppifyagency', text: 'Schedule time with me', color: '#9d572c', textColor: '#ffffff', branding: false }); }<\/script>\n<!-- Calendly badge widget end -->"
+        "custom_liquid": ""
       }
     }
   },
