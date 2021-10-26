@@ -51,8 +51,8 @@
         "16352707040e44ec15-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Visita il sito!",
+            "button_link": "https:\/\/joinabbigliamento.it"
           }
         }
       },
