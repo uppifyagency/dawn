@@ -193,6 +193,7 @@
     },
     "16339519301b2a619d": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16339519301b2a619d-0": {
           "type": "heading",
@@ -228,6 +229,7 @@
     },
     "1633959150e2105b98": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1633959150e2105b98-0": {
           "type": "column",
@@ -299,7 +301,7 @@
         "image": "shopify:\/\/shop_images\/mockuper_3.png",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "163396071630e75069": {
@@ -309,21 +311,21 @@
           "type": "column",
           "settings": {
             "title": "Sito Web",
-            "text": "<p>▷ Implementazione di un sito web su misura secondo le sue specifiche.<\/p>"
+            "text": "<p>▷ Abbiamo iniziato con Implementazione di un sito web su misura secondo le specifiche aziendali.<\/p>"
           }
         },
         "163396071630e75069-1": {
           "type": "column",
           "settings": {
             "title": "Facebook ADS",
-            "text": "<p>▷ Implementazione e setup dell'account pubblicitario.<\/p>"
+            "text": "<p>▷ Si è proceduto con il setup del Business manager e la creazione delle Facebook ADS.<\/p>"
           }
         },
         "163396071630e75069-2": {
           "type": "column",
           "settings": {
             "title": "Lead Generation",
-            "text": "<p>▷ Implementato una strategia completa di acquisizione dei clienti.<\/p>"
+            "text": "<p>▷ Le ads sono state ideate ad hoc volte alla raccolta di contatti per un segmento di mercato in cerca di un finanziamento<\/p>"
           }
         }
       },
