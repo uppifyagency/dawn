@@ -58,7 +58,7 @@
         "163602963915f2ec98-2": {
           "type": "button",
           "settings": {
-            "button_label": "👇🏼 Scopri i nuovi contenuti! 👇🏼",
+            "button_label": "👇🏼 Scopri i nuovi contenuti!",
             "button_link": "#"
           }
         }
@@ -71,7 +71,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/1_0aadef30-33cc-4dc3-abbd-964d9cf852d8_1.png",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
