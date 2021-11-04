@@ -63,7 +63,7 @@
             "button_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_text_color": "#ffffff",
-            "overlay_opacity": 65
+            "overlay_opacity": 15
           }
         }
       },
