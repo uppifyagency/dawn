@@ -273,6 +273,7 @@
     },
     "16349966687f2d5270": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<iframe src=\"https:\/\/anchor.fm\/uppify-agency\/embed\" height=\"102px\" width=\"400px\" frameborder=\"0\" scrolling=\"no\"><\/iframe>"
       }
