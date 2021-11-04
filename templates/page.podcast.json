@@ -38,8 +38,9 @@
     },
     "1636054245709c1a4f": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
-        "custom_liquid": ""
+        "custom_liquid": "<iframe src=\"https:\/\/open.spotify.com\/embed\/playlist\/5LNIJQcz0K8GQO5niw5Nb2?utm_source=generator\" width=\"allign\" height=\"380\" frameborder=\"5\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\"><\/iframe>"
       }
     }
   },
