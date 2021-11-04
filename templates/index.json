@@ -35,6 +35,41 @@
         "layout": "text_first"
       }
     },
+    "16302388166e13c189": {
+      "type": "image-with-text",
+      "blocks": {
+        "16302388166e13c189-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uppify Agency"
+          }
+        },
+        "16302388166e13c189-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sei alla ricerca di un Partner ? (non di un fornitore!) Vogliamo aiutarti a ottenere il massimo ritorno dal tuo investimento!<br\/><br\/><em><strong>▷Siamo qui per accompagnarti nel tuo percorso imprenditoriale.<\/strong><\/em><\/p>"
+          }
+        },
+        "16302388166e13c189-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "🚀 Collaboriamo!",
+            "button_link": "shopify:\/\/pages\/uppify-agency"
+          }
+        }
+      },
+      "block_order": [
+        "16302388166e13c189-0",
+        "16302388166e13c189-1",
+        "16302388166e13c189-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/NUTS-OfficeJam-056.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
+      }
+    },
     "16302387074b438cd6": {
       "type": "rich-text",
       "blocks": {
@@ -71,76 +106,6 @@
         "full_width": false
       }
     },
-    "16302388166e13c189": {
-      "type": "image-with-text",
-      "blocks": {
-        "16302388166e13c189-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Uppify Agency"
-          }
-        },
-        "16302388166e13c189-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Sei alla ricerca di un Partner ? (non di un fornitore!) Vogliamo aiutarti a ottenere il massimo ritorno dal tuo investimento!<br\/><br\/><em><strong>▷Siamo qui per accompagnarti nel tuo percorso imprenditoriale.<\/strong><\/em><\/p>"
-          }
-        },
-        "16302388166e13c189-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "🚀 Collaboriamo!",
-            "button_link": "shopify:\/\/pages\/uppify-agency"
-          }
-        }
-      },
-      "block_order": [
-        "16302388166e13c189-0",
-        "16302388166e13c189-1",
-        "16302388166e13c189-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/NUTS-OfficeJam-056.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "image_first"
-      }
-    },
-    "163023887481c27d74": {
-      "type": "image-with-text",
-      "blocks": {
-        "163023887481c27d74-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Uppify Power-up!"
-          }
-        },
-        "163023887481c27d74-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Iscriviti <strong>GRATIS<\/strong> e ricevi subito accesso al gruppo chiuso e <strong>contenuti premium<\/strong> per iniziare a sviluppare il tuo business online!<\/p>"
-          }
-        },
-        "163023887481c27d74-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Accedi al gruppo!",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "163023887481c27d74-0",
-        "163023887481c27d74-1",
-        "163023887481c27d74-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/group-watches-the-eclipse_584dbed9-3c0b-4edc-9a6e-78c583e644cc.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "1630238975a3469f42": {
       "type": "image-with-text",
       "blocks": {
@@ -174,6 +139,42 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
+      }
+    },
+    "163023887481c27d74": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "163023887481c27d74-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uppify Power-up!"
+          }
+        },
+        "163023887481c27d74-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Iscriviti <strong>GRATIS<\/strong> e ricevi subito accesso al gruppo chiuso e <strong>contenuti premium<\/strong> per iniziare a sviluppare il tuo business online!<\/p>"
+          }
+        },
+        "163023887481c27d74-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Accedi al gruppo!",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "163023887481c27d74-0",
+        "163023887481c27d74-1",
+        "163023887481c27d74-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/group-watches-the-eclipse_584dbed9-3c0b-4edc-9a6e-78c583e644cc.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "1630239312c7b15858": {
@@ -323,10 +324,10 @@
   },
   "order": [
     "1630238521e8733446",
-    "16302387074b438cd6",
     "16302388166e13c189",
-    "163023887481c27d74",
+    "16302387074b438cd6",
     "1630238975a3469f42",
+    "163023887481c27d74",
     "1630239312c7b15858",
     "16302393826adaf8b1",
     "1630239445f9da5c1f",
