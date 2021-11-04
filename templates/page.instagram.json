@@ -40,13 +40,49 @@
         "full_width": true
       }
     },
+    "163602963915f2ec98": {
+      "type": "image-with-text",
+      "blocks": {
+        "163602963915f2ec98-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "👋🏼 Benvenuto!"
+          }
+        },
+        "163602963915f2ec98-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ogni giorno, troverai strumenti e consigli concreti per avviare OGGI il tuo percorso imprenditoriale!<\/p>"
+          }
+        },
+        "163602963915f2ec98-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163602963915f2ec98-0",
+        "163602963915f2ec98-1",
+        "163602963915f2ec98-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_0aadef30-33cc-4dc3-abbd-964d9cf852d8_1.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1636027341501e7930": {
       "type": "apps",
       "blocks": {
         "eb4424d7-4519-4df8-81b5-d9f8528eff72": {
           "type": "shopify:\/\/apps\/section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
           "settings": {
-            "title": "Ogni giorno, strumenti concreti per gli imprenditori di domani!",
+            "title": "",
             "subheading": "<p>Founders @_vlad.vrinceanu @fedezanichelli<\/p>",
             "button_text": "Seguici su @uppify_agency",
             "button_link": "https:\/\/www.instagram.com\/uppify_agency\/#",
@@ -155,6 +191,7 @@
   "order": [
     "main",
     "16339640449aac75b9",
+    "163602963915f2ec98",
     "1636027341501e7930",
     "163532490823255f3d",
     "16302396447005b25d"
