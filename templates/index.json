@@ -125,7 +125,7 @@
           "type": "button",
           "settings": {
             "button_label": "Accedi al gruppo!",
-            "button_link": "shopify:\/\/pages\/podcast"
+            "button_link": ""
           }
         }
       },
@@ -160,7 +160,7 @@
           "type": "button",
           "settings": {
             "button_label": "Ascolta l'ultimo episodio!",
-            "button_link": "#"
+            "button_link": "shopify:\/\/pages\/podcast"
           }
         }
       },
