@@ -57,7 +57,6 @@
         },
         "163602963915f2ec98-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "👇🏼 Scopri i nuovi contenuti! 👇🏼",
             "button_link": "#"
